@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #007BFF;
+    color: white;
+}
+
+section {
+    margin: 20px 0;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+ol li {
+    background: #007BFF;
+    color: black;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+#Product_image p {
+    color: #333;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0;
+}
+
+blockquote {
+    background: #f9f9f9;
+    padding: 10px;
+    border-left: 5px solid #007BFF;
+    margin: 10px 0;
+}
+#pricing {
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#pricing h2 {
+    color: #007bff;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#pricing p {
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+#cta {
+    text-align: center;
+}
+
+#review-section {
+    width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+#review-text {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    
+}
+
+#submit-button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+#submit-button:hover {
+    background-color: #0056b3;
+}
+
+#message {
+    margin-top: 10px;
+    color: green;
+    font-size: 14px;
+}
+#preorder-btn {
+    padding: 15px 30px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+
+}
+
+
+
+#preorder-btn:hover {
+    background-color: #218838;
+}
+#Product_image{
+
+    padding-top: 40px;
+}
+
+.Product_name{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    tab-size: 1000pt;
+}
